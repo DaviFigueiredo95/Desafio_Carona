@@ -46,7 +46,5 @@ const salvarDados = () => {
         'secretaria': secretaria.value,
         'endereco': endereco.value
     });
-
-
-    
 }
+
